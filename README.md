@@ -1,3 +1,4 @@
+## stats 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LowPolyPhosphorus&show_icons=true&theme=gruvbox&hide_rank=true)
 ![Streak](https://streak-stats.demolab.com/?user=LowPolyPhosphorus&theme=gruvbox)
 
@@ -6,3 +7,8 @@
 ![HTML](https://img.shields.io/badge/HTML5-ff8c00?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-ff8c00?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ff8c00?style=for-the-badge&logo=javascript&logoColor=white)
+
+## current projects  
+
+[![RatGenie](https://github-readme-stats.vercel.app/api/pin/?username=LowPolyPhosphorus&repo=ratgenie&theme=gruvbox)](https://github.com/LowPolyPhosphorus/ratgenie)
+[![FuturaLink](https://github-readme-stats.vercel.app/api/pin/?username=LowPolyPhosphorus&repo=FuturaLink&theme=gruvbox)](https://github.com/LowPolyPhosphorus/FuturaLink)
