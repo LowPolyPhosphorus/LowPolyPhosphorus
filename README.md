@@ -14,7 +14,7 @@
 - [`Phosphorium`](https://github.com/LowPolyPhosphorus/Phosphorium) **(1 week ago)**
 
 ## stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LowPolyPhosphorus&show_icons=true&theme=gruvbox&hide_rank=true&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff&bg_color=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=LowPolyPhosphorus&theme=dark&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00&sideLabels=ffffff&dates=ffffff&background=0d1117&stroke=ff8c00&border=ff8c00)
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
