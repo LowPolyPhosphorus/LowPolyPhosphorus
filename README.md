@@ -7,15 +7,15 @@
 
 ## recent activity
 
+- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(1 day ago)**
 - [`wikihome`](https://github.com/LowPolyPhosphorus/wikihome) **(1 day ago)**
-- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(3 days ago)**
 - [`stasis-timeline`](https://github.com/LowPolyPhosphorus/stasis-timeline) **(3 days ago)**
 - [`site`](https://github.com/hackclub/site) **(5 days ago)**
 - [`Phosphorium`](https://github.com/LowPolyPhosphorus/Phosphorium) **(1 week ago)**
 
 ## stats
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed **522 commits**, opened **4 issues**, submitted **2 pull requests** across **21 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed **523 commits**, opened **4 issues**, submitted **2 pull requests** across **21 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
