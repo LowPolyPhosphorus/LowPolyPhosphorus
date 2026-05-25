@@ -9,7 +9,7 @@
 {{- end}}
 
 ## stats
-![GitHub Streak](https://streak-stats.demolab.com?user=LowPolyPhosphorus&theme=dark&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00&sideLabels=ffffff&dates=ffffff&background=0d1117&stroke=ff8c00&border=ff8c00)
+<!-- STATS_LINE -->
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
