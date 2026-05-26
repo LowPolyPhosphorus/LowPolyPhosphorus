@@ -7,11 +7,11 @@
 
 ## recent activity
 
-- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(1 day ago)**
-- [`wikihome`](https://github.com/LowPolyPhosphorus/wikihome) **(1 day ago)**
-- [`stasis-timeline`](https://github.com/LowPolyPhosphorus/stasis-timeline) **(3 days ago)**
-- [`site`](https://github.com/hackclub/site) **(5 days ago)**
-- [`Phosphorium`](https://github.com/LowPolyPhosphorus/Phosphorium) **(1 week ago)**
+- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(2 days ago)**
+- [`wikihome`](https://github.com/LowPolyPhosphorus/wikihome) **(2 days ago)**
+- [`stasis-timeline`](https://github.com/LowPolyPhosphorus/stasis-timeline) **(4 days ago)**
+- [`site`](https://github.com/hackclub/site) **(6 days ago)**
+- [`Phosphorium`](https://github.com/LowPolyPhosphorus/Phosphorium) **(2 weeks ago)**
 
 ## stats
 <!-- STATS_LINE -->
