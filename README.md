@@ -15,7 +15,7 @@
 
 ## stats
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed **523 commits**, opened **4 issues**, submitted **2 pull requests** across **21 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed **524 commits**, opened **4 issues**, submitted **2 pull requests** across **21 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
@@ -28,3 +28,4 @@ I joined GitHub **2 years ago**. This year I've pushed **523 commits**, opened *
 [lowpolyphosphor.us](https://lowpolyphosphor.us)
 
 _readme auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
+
