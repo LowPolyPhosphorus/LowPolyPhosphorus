@@ -1,21 +1,21 @@
 ## current projects
 
+- [`zorin-github-conf`](https://github.com/LowPolyPhosphorus/zorin-github-conf) - _look at the name!!!!!!_
 - [`wikihome`](https://github.com/LowPolyPhosphorus/wikihome) - _Open source home documentation wiki. AI-powered page generation, Wikipedia-style UI, supports multiple homes and members._
 - [`stasis-timeline`](https://github.com/LowPolyPhosphorus/stasis-timeline) - __
 - [`Phosphorium`](https://github.com/LowPolyPhosphorus/Phosphorium) - __
-- [`Meshtastic-Node`](https://github.com/LowPolyPhosphorus/Meshtastic-Node) - _A solar-powered Meshtastic LoRa router node built into a Harbor Breeze solar flood light enclosure. Uses a custom ESP32-S3 + SX1262 PCB to create a Meshtastic node._
 
 ## recent activity
 
+- [`zorin-github-conf`](https://github.com/LowPolyPhosphorus/zorin-github-conf) **(today)**
 - [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(5 days ago)**
 - [`wikihome`](https://github.com/LowPolyPhosphorus/wikihome) **(5 days ago)**
 - [`stasis-timeline`](https://github.com/LowPolyPhosphorus/stasis-timeline) **(1 week ago)**
 - [`site`](https://github.com/hackclub/site) **(1 week ago)**
-- [`Phosphorium`](https://github.com/LowPolyPhosphorus/Phosphorium) **(2 weeks ago)**
 
 ## stats
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed **526 commits**, opened **4 issues**, submitted **2 pull requests** across **21 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed **527 commits**, opened **4 issues**, submitted **2 pull requests** across **22 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
