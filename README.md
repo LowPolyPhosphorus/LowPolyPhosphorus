@@ -7,10 +7,10 @@
 
 ## recent activity
 
-- [`phosphor-card`](https://github.com/LowPolyPhosphorus/phosphor-card) **(today)**
-- [`zorin-github-conf`](https://github.com/LowPolyPhosphorus/zorin-github-conf) **(1 day ago)**
-- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(6 days ago)**
-- [`wikihome`](https://github.com/LowPolyPhosphorus/wikihome) **(6 days ago)**
+- [`phosphor-card`](https://github.com/LowPolyPhosphorus/phosphor-card) **(1 day ago)**
+- [`zorin-github-conf`](https://github.com/LowPolyPhosphorus/zorin-github-conf) **(2 days ago)**
+- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(1 week ago)**
+- [`wikihome`](https://github.com/LowPolyPhosphorus/wikihome) **(1 week ago)**
 - [`stasis-timeline`](https://github.com/LowPolyPhosphorus/stasis-timeline) **(1 week ago)**
 
 ## stats
