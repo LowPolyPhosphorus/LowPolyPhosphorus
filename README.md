@@ -7,7 +7,7 @@
 
 ## recent activity
 
-- [`phosphor-card`](https://github.com/LowPolyPhosphorus/phosphor-card) **(1 week ago)**
+- [`phosphor-card`](https://github.com/LowPolyPhosphorus/phosphor-card) **(1 day ago)**
 - [`zorin-github-conf`](https://github.com/LowPolyPhosphorus/zorin-github-conf) **(1 week ago)**
 - [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(2 weeks ago)**
 - [`wikihome`](https://github.com/LowPolyPhosphorus/wikihome) **(2 weeks ago)**
@@ -15,7 +15,7 @@
 
 ## stats
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed **529 commits**, opened **4 issues**, submitted **2 pull requests** across **22 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed **530 commits**, opened **4 issues**, submitted **2 pull requests** across **22 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
