@@ -7,8 +7,8 @@
 
 ## recent activity
 
-- [`netinspect`](https://github.com/LowPolyPhosphorus/netinspect) **(1 day ago)**
-- [`phosphor-card`](https://github.com/LowPolyPhosphorus/phosphor-card) **(3 days ago)**
+- [`netinspect`](https://github.com/LowPolyPhosphorus/netinspect) **(2 days ago)**
+- [`phosphor-card`](https://github.com/LowPolyPhosphorus/phosphor-card) **(4 days ago)**
 - [`zorin-github-conf`](https://github.com/LowPolyPhosphorus/zorin-github-conf) **(1 week ago)**
 - [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(2 weeks ago)**
 - [`wikihome`](https://github.com/LowPolyPhosphorus/wikihome) **(2 weeks ago)**
