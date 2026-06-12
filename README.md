@@ -7,15 +7,15 @@
 
 ## recent activity
 
-- [`netinspect`](https://github.com/LowPolyPhosphorus/netinspect) **(1 day ago)**
-- [`phosphor-card`](https://github.com/LowPolyPhosphorus/phosphor-card) **(4 days ago)**
-- [`zorin-github-conf`](https://github.com/LowPolyPhosphorus/zorin-github-conf) **(1 week ago)**
-- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(2 weeks ago)**
+- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(1 day ago)**
+- [`netinspect`](https://github.com/LowPolyPhosphorus/netinspect) **(2 days ago)**
+- [`phosphor-card`](https://github.com/LowPolyPhosphorus/phosphor-card) **(5 days ago)**
+- [`zorin-github-conf`](https://github.com/LowPolyPhosphorus/zorin-github-conf) **(2 weeks ago)**
 - [`wikihome`](https://github.com/LowPolyPhosphorus/wikihome) **(2 weeks ago)**
 
 ## stats
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed **537 commits**, opened **4 issues**, submitted **2 pull requests** across **23 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed **539 commits**, opened **4 issues**, submitted **2 pull requests** across **23 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
