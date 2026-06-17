@@ -16,7 +16,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-ff8c00?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-ff8c00?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ff8c00?style=for-the-badge&logo=javascript&logoColor=white)
-![Dart](https://img.shields.io/badge/Flutter%20Language-ff8c00?style=for-the-badge&logo=dart&logoColor=white)
+![Dart](https://img.shields.io/badge/Flutter%20Language-ff8c00?style=for-the-badge&logo=dart&logoColor=white)<br><br>
 ![](https://komarev.com/ghpvc/?username=LowPolyPhosphorus&color=orange)
 
 ## say hi
