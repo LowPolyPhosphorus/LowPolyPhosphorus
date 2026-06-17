@@ -15,14 +15,14 @@
 
 ## some stuff...
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed **565 commits**, opened **5 issues**, submitted **3 pull requests** across **24 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed **566 commits**, opened **5 issues**, submitted **3 pull requests** across **24 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-ff8c00?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-ff8c00?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ff8c00?style=for-the-badge&logo=javascript&logoColor=white)
-![Dart](https://img.shields.io/badge/Flutter%20Language-ff8c00?style=for-the-badge&logo=dart&logoColor=white)
+![Dart](https://img.shields.io/badge/Flutter%20Language-ff8c00?style=for-the-badge&logo=dart&logoColor=white)<br><br>
 ![](https://komarev.com/ghpvc/?username=LowPolyPhosphorus&color=orange)
 
 ## say hi
