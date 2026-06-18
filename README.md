@@ -7,8 +7,8 @@
 
 ## recent activity
 
-- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(2 days ago)**
-- [`fightdeck`](https://github.com/LowPolyPhosphorus/fightdeck) **(3 days ago)**
+- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(3 days ago)**
+- [`fightdeck`](https://github.com/LowPolyPhosphorus/fightdeck) **(4 days ago)**
 - [`netinspect`](https://github.com/LowPolyPhosphorus/netinspect) **(1 week ago)**
 - [`phosphor-card`](https://github.com/LowPolyPhosphorus/phosphor-card) **(1 week ago)**
 - [`zorin-github-conf`](https://github.com/LowPolyPhosphorus/zorin-github-conf) **(2 weeks ago)**
