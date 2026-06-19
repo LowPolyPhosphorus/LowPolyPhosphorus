@@ -1,21 +1,21 @@
 ## current projects
 
+- [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) - _de-microslopified notepad, first of hopefully more apps designed to remove microsoft from windows_
 - [`fightdeck`](https://github.com/LowPolyPhosphorus/fightdeck) - _fight deck, thing for fallout fest_
 - [`netinspect`](https://github.com/LowPolyPhosphorus/netinspect) - _A network intelligence API, inspect DNS, SSL, WHOIS, IP, and more for any domain or host._
 - [`zorin-github-conf`](https://github.com/LowPolyPhosphorus/zorin-github-conf) - _repo for customizations to zorin hopefully to be made into a automated script_
-- [`wikihome`](https://github.com/LowPolyPhosphorus/wikihome) - _Open source home documentation wiki. AI-powered page generation, Wikipedia-style UI, supports multiple homes and members._
 
 ## recent activity
 
+- [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) **(1 day ago)**
 - [`fightdeck`](https://github.com/LowPolyPhosphorus/fightdeck) **(1 day ago)**
 - [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(2 days ago)**
 - [`netinspect`](https://github.com/LowPolyPhosphorus/netinspect) **(1 week ago)**
 - [`phosphor-card`](https://github.com/LowPolyPhosphorus/phosphor-card) **(1 week ago)**
-- [`zorin-github-conf`](https://github.com/LowPolyPhosphorus/zorin-github-conf) **(3 weeks ago)**
 
 ## some stuff...
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed **568 commits**, opened **5 issues**, submitted **3 pull requests** across **24 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed **569 commits**, opened **5 issues**, submitted **3 pull requests** across **25 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
