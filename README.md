@@ -7,9 +7,9 @@
 
 ## recent activity
 
-- [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) **(1 day ago)**
-- [`fightdeck`](https://github.com/LowPolyPhosphorus/fightdeck) **(1 day ago)**
-- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(2 days ago)**
+- [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) **(2 days ago)**
+- [`fightdeck`](https://github.com/LowPolyPhosphorus/fightdeck) **(2 days ago)**
+- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(3 days ago)**
 - [`netinspect`](https://github.com/LowPolyPhosphorus/netinspect) **(1 week ago)**
 - [`phosphor-card`](https://github.com/LowPolyPhosphorus/phosphor-card) **(1 week ago)**
 
