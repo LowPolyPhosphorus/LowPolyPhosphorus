@@ -1,21 +1,21 @@
 ## current projects
 
+- [`partfinder`](https://github.com/LowPolyPhosphorus/partfinder) - __
 - [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) - _de-microslopified notepad, first of hopefully more apps designed to remove microsoft from windows_
 - [`fightdeck`](https://github.com/LowPolyPhosphorus/fightdeck) - _fight deck, thing for fallout fest_
 - [`netinspect`](https://github.com/LowPolyPhosphorus/netinspect) - _A network intelligence API, inspect DNS, SSL, WHOIS, IP, and more for any domain or host._
-- [`zorin-github-conf`](https://github.com/LowPolyPhosphorus/zorin-github-conf) - _repo for customizations to zorin hopefully to be made into a automated script_
 
 ## recent activity
 
+- [`partfinder`](https://github.com/LowPolyPhosphorus/partfinder) **(today)**
 - [`Phosphorium`](https://github.com/LowPolyPhosphorus/Phosphorium) **(3 days ago)**
 - [`fightdeck`](https://github.com/LowPolyPhosphorus/fightdeck) **(4 days ago)**
 - [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) **(5 days ago)**
 - [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(6 days ago)**
-- [`netinspect`](https://github.com/LowPolyPhosphorus/netinspect) **(1 week ago)**
 
 ## some stuff...
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed **574 commits**, opened **5 issues**, submitted **3 pull requests** across **25 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed **576 commits**, opened **5 issues**, submitted **3 pull requests** across **26 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
