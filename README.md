@@ -7,15 +7,15 @@
 
 ## recent activity
 
-- [`partfinder`](https://github.com/LowPolyPhosphorus/partfinder) **(today)**
-- [`Phosphorium`](https://github.com/LowPolyPhosphorus/Phosphorium) **(3 days ago)**
-- [`fightdeck`](https://github.com/LowPolyPhosphorus/fightdeck) **(4 days ago)**
-- [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) **(5 days ago)**
-- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(6 days ago)**
+- [`partfinder`](https://github.com/LowPolyPhosphorus/partfinder) **(1 day ago)**
+- [`Phosphorium`](https://github.com/LowPolyPhosphorus/Phosphorium) **(4 days ago)**
+- [`fightdeck`](https://github.com/LowPolyPhosphorus/fightdeck) **(5 days ago)**
+- [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) **(6 days ago)**
+- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(1 week ago)**
 
 ## some stuff...
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed **619 commits**, opened **5 issues**, submitted **3 pull requests** across **26 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed **642 commits**, opened **5 issues**, submitted **3 pull requests** across **26 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
