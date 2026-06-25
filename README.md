@@ -7,10 +7,10 @@
 
 ## recent activity
 
-- [`partfinder`](https://github.com/LowPolyPhosphorus/partfinder) **(1 day ago)**
-- [`Phosphorium`](https://github.com/LowPolyPhosphorus/Phosphorium) **(4 days ago)**
-- [`fightdeck`](https://github.com/LowPolyPhosphorus/fightdeck) **(5 days ago)**
-- [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) **(6 days ago)**
+- [`partfinder`](https://github.com/LowPolyPhosphorus/partfinder) **(2 days ago)**
+- [`Phosphorium`](https://github.com/LowPolyPhosphorus/Phosphorium) **(5 days ago)**
+- [`fightdeck`](https://github.com/LowPolyPhosphorus/fightdeck) **(6 days ago)**
+- [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) **(1 week ago)**
 - [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(1 week ago)**
 
 ## some stuff...
