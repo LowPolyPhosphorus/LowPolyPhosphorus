@@ -1,21 +1,21 @@
 ## current projects
 
+- [`roomsense`](https://github.com/LowPolyPhosphorus/roomsense) - _ESPHome sensor node for Home Assistant mmWave presence, temp/humidity, and distance sensing on an ESP32._
 - [`KickDeck`](https://github.com/LowPolyPhosphorus/KickDeck) - _using a KickPi K2B v1.1 to make a Cyberdeck inside of a mini pelican case (from aliexpress or i would have to pay $50+) 7" HDMI screen and a full keyboard with more planned for the future._
 - [`partfinder`](https://github.com/LowPolyPhosphorus/partfinder) - __
 - [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) - _de-microslopified notepad, first of hopefully more apps designed to remove microsoft from windows_
-- [`fightdeck`](https://github.com/LowPolyPhosphorus/fightdeck) - _fight deck, thing for fallout fest_
 
 ## recent activity
 
-- [`ratgenie`](https://github.com/LowPolyPhosphorus/ratgenie) **(1 day ago)**
-- [`partfinder`](https://github.com/LowPolyPhosphorus/partfinder) **(1 day ago)**
-- [`KickDeck`](https://github.com/LowPolyPhosphorus/KickDeck) **(1 day ago)**
+- [`roomsense`](https://github.com/LowPolyPhosphorus/roomsense) **(1 day ago)**
+- [`KickDeck`](https://github.com/LowPolyPhosphorus/KickDeck) **(2 days ago)**
+- [`ratgenie`](https://github.com/LowPolyPhosphorus/ratgenie) **(2 days ago)**
+- [`partfinder`](https://github.com/LowPolyPhosphorus/partfinder) **(2 days ago)**
 - [`Phosphorium`](https://github.com/LowPolyPhosphorus/Phosphorium) **(1 week ago)**
-- [`fightdeck`](https://github.com/LowPolyPhosphorus/fightdeck) **(1 week ago)**
 
 ## some stuff...
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed **660 commits**, opened **5 issues**, submitted **3 pull requests** across **27 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed **661 commits**, opened **5 issues**, submitted **3 pull requests** across **28 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
