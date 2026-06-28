@@ -8,14 +8,14 @@
 ## recent activity
 
 - [`roomsense`](https://github.com/LowPolyPhosphorus/roomsense) **(1 day ago)**
-- [`KickDeck`](https://github.com/LowPolyPhosphorus/KickDeck) **(2 days ago)**
 - [`ratgenie`](https://github.com/LowPolyPhosphorus/ratgenie) **(2 days ago)**
+- [`KickDeck`](https://github.com/LowPolyPhosphorus/KickDeck) **(2 days ago)**
 - [`partfinder`](https://github.com/LowPolyPhosphorus/partfinder) **(2 days ago)**
 - [`Phosphorium`](https://github.com/LowPolyPhosphorus/Phosphorium) **(1 week ago)**
 
 ## some stuff...
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed **661 commits**, opened **5 issues**, submitted **3 pull requests** across **28 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed **663 commits**, opened **5 issues**, submitted **3 pull requests** across **28 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
