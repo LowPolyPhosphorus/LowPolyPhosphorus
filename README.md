@@ -7,15 +7,15 @@
 
 ## recent activity
 
-- [`KickDeck`](https://github.com/LowPolyPhosphorus/KickDeck) **(today)**
-- [`gork-slack`](https://github.com/techwithanirudh/gork-slack) **(2 days ago)**
-- [`roomsense`](https://github.com/LowPolyPhosphorus/roomsense) **(3 days ago)**
-- [`partfinder`](https://github.com/LowPolyPhosphorus/partfinder) **(5 days ago)**
-- [`ratgenie`](https://github.com/LowPolyPhosphorus/ratgenie) **(5 days ago)**
+- [`KickDeck`](https://github.com/LowPolyPhosphorus/KickDeck) **(1 day ago)**
+- [`gork-slack`](https://github.com/techwithanirudh/gork-slack) **(3 days ago)**
+- [`roomsense`](https://github.com/LowPolyPhosphorus/roomsense) **(4 days ago)**
+- [`partfinder`](https://github.com/LowPolyPhosphorus/partfinder) **(6 days ago)**
+- [`ratgenie`](https://github.com/LowPolyPhosphorus/ratgenie) **(6 days ago)**
 
 ## some stuff...
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed **694 commits**, opened **5 issues**, submitted **4 pull requests** across **29 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed **698 commits**, opened **5 issues**, submitted **4 pull requests** across **29 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
