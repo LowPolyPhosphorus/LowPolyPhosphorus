@@ -7,11 +7,11 @@
 
 ## recent activity
 
-- [`KickDeck`](https://github.com/LowPolyPhosphorus/KickDeck) **(1 day ago)**
-- [`gork-slack`](https://github.com/techwithanirudh/gork-slack) **(3 days ago)**
-- [`roomsense`](https://github.com/LowPolyPhosphorus/roomsense) **(4 days ago)**
-- [`partfinder`](https://github.com/LowPolyPhosphorus/partfinder) **(6 days ago)**
-- [`ratgenie`](https://github.com/LowPolyPhosphorus/ratgenie) **(6 days ago)**
+- [`KickDeck`](https://github.com/LowPolyPhosphorus/KickDeck) **(2 days ago)**
+- [`gork-slack`](https://github.com/techwithanirudh/gork-slack) **(4 days ago)**
+- [`roomsense`](https://github.com/LowPolyPhosphorus/roomsense) **(5 days ago)**
+- [`partfinder`](https://github.com/LowPolyPhosphorus/partfinder) **(1 week ago)**
+- [`ratgenie`](https://github.com/LowPolyPhosphorus/ratgenie) **(1 week ago)**
 
 ## some stuff...
 <!-- STATS_LINE -->
