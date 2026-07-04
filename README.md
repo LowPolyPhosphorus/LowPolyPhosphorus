@@ -1,21 +1,21 @@
 ## current projects
 
+- [`Github-Bot-But-Better`](https://github.com/LowPolyPhosphorus/Github-Bot-But-Better) - _github bot that sends my accounts git updates and such to a channel_
 - [`roomsense`](https://github.com/LowPolyPhosphorus/roomsense) - _ESPHome sensor node for Home Assistant mmWave presence, temp/humidity, and distance sensing on an ESP32._
 - [`KickDeck`](https://github.com/LowPolyPhosphorus/KickDeck) - _using a KickPi K2B v1.1 to make a Cyberdeck inside of a mini pelican case (from aliexpress or i would have to pay $50+) 7" HDMI screen and a full keyboard with more planned for the future._
 - [`partfinder`](https://github.com/LowPolyPhosphorus/partfinder) - __
-- [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) - _de-microslopified notepad, first of hopefully more apps designed to remove microsoft from windows_
 
 ## recent activity
 
-- [`anSON-eradicator`](https://github.com/CarbonicChloride/anSON-eradicator) **(today)**
-- [`KickDeck`](https://github.com/LowPolyPhosphorus/KickDeck) **(1 day ago)**
-- [`gork-slack`](https://github.com/techwithanirudh/gork-slack) **(4 days ago)**
-- [`roomsense`](https://github.com/LowPolyPhosphorus/roomsense) **(5 days ago)**
-- [`partfinder`](https://github.com/LowPolyPhosphorus/partfinder) **(1 week ago)**
+- [`anSON-eradicator`](https://github.com/CarbonicChloride/anSON-eradicator) **(1 day ago)**
+- [`Github-Bot-But-Better`](https://github.com/LowPolyPhosphorus/Github-Bot-But-Better) **(1 day ago)**
+- [`KickDeck`](https://github.com/LowPolyPhosphorus/KickDeck) **(2 days ago)**
+- [`gork-slack`](https://github.com/techwithanirudh/gork-slack) **(5 days ago)**
+- [`roomsense`](https://github.com/LowPolyPhosphorus/roomsense) **(6 days ago)**
 
 ## some stuff...
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed **711 commits**, opened **5 issues**, submitted **4 pull requests** across **29 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed **713 commits**, opened **5 issues**, submitted **4 pull requests** across **30 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
