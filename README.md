@@ -7,11 +7,11 @@
 
 ## recent activity
 
-- [`anSON-eradicator`](https://github.com/CarbonicChloride/anSON-eradicator) **(1 day ago)**
-- [`Github-Bot-But-Better`](https://github.com/LowPolyPhosphorus/Github-Bot-But-Better) **(1 day ago)**
-- [`KickDeck`](https://github.com/LowPolyPhosphorus/KickDeck) **(2 days ago)**
-- [`gork-slack`](https://github.com/techwithanirudh/gork-slack) **(5 days ago)**
-- [`roomsense`](https://github.com/LowPolyPhosphorus/roomsense) **(6 days ago)**
+- [`anSON-eradicator`](https://github.com/CarbonicChloride/anSON-eradicator) **(2 days ago)**
+- [`Github-Bot-But-Better`](https://github.com/LowPolyPhosphorus/Github-Bot-But-Better) **(2 days ago)**
+- [`KickDeck`](https://github.com/LowPolyPhosphorus/KickDeck) **(3 days ago)**
+- [`gork-slack`](https://github.com/techwithanirudh/gork-slack) **(6 days ago)**
+- [`roomsense`](https://github.com/LowPolyPhosphorus/roomsense) **(1 week ago)**
 
 ## some stuff...
 <!-- STATS_LINE -->
