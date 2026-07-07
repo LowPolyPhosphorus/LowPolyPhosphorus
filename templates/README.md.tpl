@@ -8,7 +8,7 @@
 - [`{{.Repo.Name}}`]({{.Repo.URL}}) **({{humanize .OccurredAt}})**
 {{- end}}
 
-## some stuff...
+## some stupid stuff...
 <!-- STATS_LINE -->
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
