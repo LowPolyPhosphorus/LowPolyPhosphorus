@@ -7,10 +7,10 @@
 
 ## recent activity
 
-- [`site`](https://github.com/hackclub/site) **(2 days ago)**
-- [`Github-Bot-But-Better`](https://github.com/LowPolyPhosphorus/Github-Bot-But-Better) **(2 days ago)**
-- [`anSON-eradicator`](https://github.com/CarbonicChloride/anSON-eradicator) **(4 days ago)**
-- [`KickDeck`](https://github.com/LowPolyPhosphorus/KickDeck) **(5 days ago)**
+- [`site`](https://github.com/hackclub/site) **(3 days ago)**
+- [`Github-Bot-But-Better`](https://github.com/LowPolyPhosphorus/Github-Bot-But-Better) **(3 days ago)**
+- [`anSON-eradicator`](https://github.com/CarbonicChloride/anSON-eradicator) **(5 days ago)**
+- [`KickDeck`](https://github.com/LowPolyPhosphorus/KickDeck) **(6 days ago)**
 - [`gork-slack`](https://github.com/techwithanirudh/gork-slack) **(1 week ago)**
 
 ## some stupid stuff...
