@@ -7,7 +7,7 @@
 
 ## recent activity
 
-- [`swordfight`](https://github.com/LowPolyPhosphorus/swordfight) **(1 day ago)**
+- [`swordfight`](https://github.com/LowPolyPhosphorus/swordfight) **(today)**
 - [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(5 days ago)**
 - [`Github-Bot-But-Better`](https://github.com/LowPolyPhosphorus/Github-Bot-But-Better) **(1 week ago)**
 - [`site`](https://github.com/hackclub/site) **(1 week ago)**
@@ -15,7 +15,7 @@
 
 ## some stupid stuff...
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed **712 commits**, opened **5 issues**, submitted **4 pull requests** across **31 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed **721 commits**, opened **5 issues**, submitted **4 pull requests** across **31 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
