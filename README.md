@@ -7,8 +7,8 @@
 
 ## recent activity
 
-- [`swordfight`](https://github.com/LowPolyPhosphorus/swordfight) **(today)**
-- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(5 days ago)**
+- [`swordfight`](https://github.com/LowPolyPhosphorus/swordfight) **(1 day ago)**
+- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(6 days ago)**
 - [`Github-Bot-But-Better`](https://github.com/LowPolyPhosphorus/Github-Bot-But-Better) **(1 week ago)**
 - [`site`](https://github.com/hackclub/site) **(1 week ago)**
 - [`anSON-eradicator`](https://github.com/CarbonicChloride/anSON-eradicator) **(1 week ago)**
