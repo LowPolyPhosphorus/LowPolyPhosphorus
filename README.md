@@ -15,7 +15,7 @@
 
 ## some stupid stuff...
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed **731 commits**, opened **5 issues**, submitted **4 pull requests** across **31 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed **732 commits**, opened **5 issues**, submitted **4 pull requests** across **31 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
