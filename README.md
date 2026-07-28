@@ -7,10 +7,10 @@
 
 ## recent activity
 
-- [`hardwiretest`](https://github.com/LowPolyPhosphorus/hardwiretest) **(today)**
-- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(2 days ago)**
-- [`hardwire`](https://github.com/sectersion/hardwire) **(3 days ago)**
-- [`arduino-digital-macropad`](https://github.com/LowPolyPhosphorus/arduino-digital-macropad) **(5 days ago)**
+- [`hardwiretest`](https://github.com/LowPolyPhosphorus/hardwiretest) **(1 day ago)**
+- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(3 days ago)**
+- [`hardwire`](https://github.com/sectersion/hardwire) **(4 days ago)**
+- [`arduino-digital-macropad`](https://github.com/LowPolyPhosphorus/arduino-digital-macropad) **(6 days ago)**
 - [`swordfight`](https://github.com/LowPolyPhosphorus/swordfight) **(1 week ago)**
 
 ## some stupid stuff...
