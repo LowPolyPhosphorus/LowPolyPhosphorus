@@ -7,15 +7,15 @@
 
 ## recent activity
 
+- [`hardwire`](https://github.com/sectersion/hardwire) **(today)**
 - [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(1 day ago)**
-- [`hardwire`](https://github.com/sectersion/hardwire) **(1 day ago)**
 - [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) **(2 days ago)**
 - [`swordfight`](https://github.com/LowPolyPhosphorus/swordfight) **(2 days ago)**
 - [`hardwiretest`](https://github.com/LowPolyPhosphorus/hardwiretest) **(3 days ago)**
 
 ## some stupid stuff...
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed **767 commits**, opened **5 issues**, submitted **5 pull requests** across **34 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed **769 commits**, opened **5 issues**, submitted **5 pull requests** across **34 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
