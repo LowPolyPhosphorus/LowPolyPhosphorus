@@ -7,11 +7,11 @@
 
 ## recent activity
 
-- [`hardwire`](https://github.com/sectersion/hardwire) **(1 day ago)**
-- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(2 days ago)**
-- [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) **(3 days ago)**
-- [`swordfight`](https://github.com/LowPolyPhosphorus/swordfight) **(3 days ago)**
-- [`hardwiretest`](https://github.com/LowPolyPhosphorus/hardwiretest) **(4 days ago)**
+- [`hardwire`](https://github.com/sectersion/hardwire) **(2 days ago)**
+- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(3 days ago)**
+- [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) **(4 days ago)**
+- [`swordfight`](https://github.com/LowPolyPhosphorus/swordfight) **(4 days ago)**
+- [`hardwiretest`](https://github.com/LowPolyPhosphorus/hardwiretest) **(5 days ago)**
 
 ## some stupid stuff...
 <!-- STATS_LINE -->
