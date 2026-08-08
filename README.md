@@ -7,7 +7,7 @@
 
 ## recent activity
 
-- [`hardwire`](https://github.com/sectersion/hardwire) **(6 days ago)**
+- [`hardwire`](https://github.com/sectersion/hardwire) **(1 week ago)**
 - [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(1 week ago)**
 - [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) **(1 week ago)**
 - [`swordfight`](https://github.com/LowPolyPhosphorus/swordfight) **(1 week ago)**
