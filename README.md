@@ -7,7 +7,7 @@
 
 ## recent activity
 
-- [`guitar-pico`](https://github.com/LowPolyPhosphorus/guitar-pico) **(today)**
+- [`guitar-pico`](https://github.com/LowPolyPhosphorus/guitar-pico) **(1 day ago)**
 - [`hardwire`](https://github.com/sectersion/hardwire) **(1 week ago)**
 - [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(1 week ago)**
 - [`swordfight`](https://github.com/LowPolyPhosphorus/swordfight) **(1 week ago)**
