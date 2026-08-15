@@ -7,10 +7,10 @@
 
 ## recent activity
 
-- [`hardwiretest`](https://github.com/LowPolyPhosphorus/hardwiretest) **(2 days ago)**
-- [`guitar-pico`](https://github.com/LowPolyPhosphorus/guitar-pico) **(4 days ago)**
-- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(5 days ago)**
-- [`hardwire`](https://github.com/sectersion/hardwire) **(1 week ago)**
+- [`hardwiretest`](https://github.com/LowPolyPhosphorus/hardwiretest) **(3 days ago)**
+- [`guitar-pico`](https://github.com/LowPolyPhosphorus/guitar-pico) **(5 days ago)**
+- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(6 days ago)**
+- [`hardwire`](https://github.com/sectersion/hardwire) **(2 weeks ago)**
 - [`swordfight`](https://github.com/LowPolyPhosphorus/swordfight) **(2 weeks ago)**
 
 ## some stupid stuff...
