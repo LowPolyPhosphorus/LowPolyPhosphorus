@@ -39,7 +39,7 @@ prs = data["contributionsCollection"]["totalPullRequestContributions"]
 issues = data["contributionsCollection"]["totalIssueContributions"]
 repos = data["repositories"]["totalCount"]
 
-line = f"I joined GitHub **{years} years ago**. This year I've pushed **{commits} commits**, opened **{issues} issues**, submitted **{prs} pull requests** across **{repos} public repos**."
+line = f"I joined GitHub **{years} years ago**. This year I've pushed ~ **{commits} commits**, opened **{issues} issues**, submitted **{prs} pull requests** across **{repos} public repos**."
 
 # Replace the placeholder in README.md
 with open("README.md", "r") as f:
