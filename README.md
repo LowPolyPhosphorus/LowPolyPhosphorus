@@ -9,7 +9,7 @@
 
 - [`hardwiretest`](https://github.com/LowPolyPhosphorus/hardwiretest) **(1 week ago)**
 - [`guitar-pico`](https://github.com/LowPolyPhosphorus/guitar-pico) **(1 week ago)**
-- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(1 week ago)**
+- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(2 weeks ago)**
 - [`hardwire`](https://github.com/sectersion/hardwire) **(3 weeks ago)**
 - [`swordfight`](https://github.com/LowPolyPhosphorus/swordfight) **(3 weeks ago)**
 
