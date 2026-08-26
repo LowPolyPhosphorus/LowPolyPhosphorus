@@ -7,7 +7,7 @@
 
 ## recent activity
 
-- [`hardwiretest`](https://github.com/LowPolyPhosphorus/hardwiretest) **(1 week ago)**
+- [`hardwiretest`](https://github.com/LowPolyPhosphorus/hardwiretest) **(2 weeks ago)**
 - [`guitar-pico`](https://github.com/LowPolyPhosphorus/guitar-pico) **(2 weeks ago)**
 - [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(2 weeks ago)**
 - [`hardwire`](https://github.com/sectersion/hardwire) **(3 weeks ago)**
