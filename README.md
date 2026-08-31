@@ -7,11 +7,11 @@
 
 ## recent activity
 
-- [`KickDeck`](https://github.com/LowPolyPhosphorus/KickDeck) **(2 days ago)**
+- [`KickDeck`](https://github.com/LowPolyPhosphorus/KickDeck) **(3 days ago)**
 - [`hardwiretest`](https://github.com/LowPolyPhosphorus/hardwiretest) **(2 weeks ago)**
-- [`guitar-pico`](https://github.com/LowPolyPhosphorus/guitar-pico) **(2 weeks ago)**
+- [`guitar-pico`](https://github.com/LowPolyPhosphorus/guitar-pico) **(3 weeks ago)**
 - [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(3 weeks ago)**
-- [`hardwire`](https://github.com/sectersion/hardwire) **(4 weeks ago)**
+- [`hardwire`](https://github.com/sectersion/hardwire) **(1 month ago)**
 
 ## some stupid stuff...
 <!-- STATS_LINE -->
