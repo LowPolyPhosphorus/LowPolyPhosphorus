@@ -7,15 +7,15 @@
 
 ## recent activity
 
-- [`CursedColor`](https://github.com/LowPolyPhosphorus/CursedColor) **(1 day ago)**
-- [`hardwire`](https://github.com/sectersion/hardwire) **(2 days ago)**
-- [`KickDeck`](https://github.com/LowPolyPhosphorus/KickDeck) **(4 days ago)**
+- [`hardwire`](https://github.com/sectersion/hardwire) **(1 day ago)**
+- [`CursedColor`](https://github.com/LowPolyPhosphorus/CursedColor) **(2 days ago)**
+- [`KickDeck`](https://github.com/LowPolyPhosphorus/KickDeck) **(5 days ago)**
 - [`hardwiretest`](https://github.com/LowPolyPhosphorus/hardwiretest) **(1 month ago)**
 - [`guitar-pico`](https://github.com/LowPolyPhosphorus/guitar-pico) **(1 month ago)**
 
 ## some stupid stuff...
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed ~ **799 commits**, opened **5 issues**, submitted **5 pull requests** across **36 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed ~ **802 commits**, opened **5 issues**, submitted **5 pull requests** across **36 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
