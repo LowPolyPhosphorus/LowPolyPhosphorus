@@ -7,9 +7,9 @@
 
 ## recent activity
 
-- [`hardwire`](https://github.com/sectersion/hardwire) **(1 day ago)**
-- [`CursedColor`](https://github.com/LowPolyPhosphorus/CursedColor) **(1 day ago)**
-- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(2 days ago)**
+- [`hardwire`](https://github.com/sectersion/hardwire) **(2 days ago)**
+- [`CursedColor`](https://github.com/LowPolyPhosphorus/CursedColor) **(2 days ago)**
+- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(3 days ago)**
 - [`KickDeck`](https://github.com/LowPolyPhosphorus/KickDeck) **(1 week ago)**
 - [`hardwiretest`](https://github.com/LowPolyPhosphorus/hardwiretest) **(1 month ago)**
 
