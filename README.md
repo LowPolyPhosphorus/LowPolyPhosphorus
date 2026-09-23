@@ -7,9 +7,9 @@
 
 ## recent activity
 
-- [`frolibot2`](https://github.com/LowPolyPhosphorus/frolibot2) **(1 day ago)**
-- [`hardwire`](https://github.com/sectersion/hardwire) **(2 days ago)**
-- [`CursedColor`](https://github.com/LowPolyPhosphorus/CursedColor) **(6 days ago)**
+- [`frolibot2`](https://github.com/LowPolyPhosphorus/frolibot2) **(2 days ago)**
+- [`hardwire`](https://github.com/sectersion/hardwire) **(3 days ago)**
+- [`CursedColor`](https://github.com/LowPolyPhosphorus/CursedColor) **(1 week ago)**
 - [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(1 week ago)**
 - [`KickDeck`](https://github.com/LowPolyPhosphorus/KickDeck) **(2 weeks ago)**
 
