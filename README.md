@@ -1,21 +1,21 @@
 ## current projects
 
+- [`site`](https://github.com/LowPolyPhosphorus/site) - __
 - [`codrone-drone-show`](https://github.com/LowPolyPhosphorus/codrone-drone-show) - _make crappy educational drones do drone show _
 - [`frolibot2`](https://github.com/LowPolyPhosphorus/frolibot2) - _shitpost_
 - [`CursedColor`](https://github.com/LowPolyPhosphorus/CursedColor) - __
-- [`guitar-pico`](https://github.com/LowPolyPhosphorus/guitar-pico) - __
 
 ## recent activity
 
-- [`codrone-drone-show`](https://github.com/LowPolyPhosphorus/codrone-drone-show) **(today)**
-- [`frolibot2`](https://github.com/LowPolyPhosphorus/frolibot2) **(6 days ago)**
+- [`site`](https://github.com/LowPolyPhosphorus/site) **(1 day ago)**
+- [`codrone-drone-show`](https://github.com/LowPolyPhosphorus/codrone-drone-show) **(1 day ago)**
+- [`frolibot2`](https://github.com/LowPolyPhosphorus/frolibot2) **(1 week ago)**
 - [`hardwire`](https://github.com/sectersion/hardwire) **(1 week ago)**
 - [`CursedColor`](https://github.com/LowPolyPhosphorus/CursedColor) **(1 week ago)**
-- [`LowPolyPhosphorOS`](https://github.com/LowPolyPhosphorus/LowPolyPhosphorOS) **(1 week ago)**
 
 ## some stupid stuff...
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed ~ **842 commits**, opened **5 issues**, submitted **5 pull requests** across **38 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed ~ **843 commits**, opened **5 issues**, submitted **5 pull requests** across **38 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
