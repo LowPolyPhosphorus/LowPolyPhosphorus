@@ -9,7 +9,7 @@
 
 - [`site`](https://github.com/LowPolyPhosphorus/site) **(1 week ago)**
 - [`codrone-drone-show`](https://github.com/LowPolyPhosphorus/codrone-drone-show) **(1 week ago)**
-- [`frolibot2`](https://github.com/LowPolyPhosphorus/frolibot2) **(1 week ago)**
+- [`frolibot2`](https://github.com/LowPolyPhosphorus/frolibot2) **(2 weeks ago)**
 - [`hardwire`](https://github.com/sectersion/hardwire) **(2 weeks ago)**
 - [`CursedColor`](https://github.com/LowPolyPhosphorus/CursedColor) **(2 weeks ago)**
 
