@@ -7,7 +7,7 @@
 
 ## recent activity
 
-- [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) **(1 day ago)**
+- [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) **(2 days ago)**
 - [`codrone-drone-show`](https://github.com/LowPolyPhosphorus/codrone-drone-show) **(1 week ago)**
 - [`site`](https://github.com/LowPolyPhosphorus/site) **(1 week ago)**
 - [`frolibot2`](https://github.com/LowPolyPhosphorus/frolibot2) **(2 weeks ago)**
