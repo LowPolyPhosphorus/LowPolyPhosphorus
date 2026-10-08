@@ -7,15 +7,15 @@
 
 ## recent activity
 
+- [`site`](https://github.com/LowPolyPhosphorus/site) **(1 day ago)**
 - [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) **(3 days ago)**
 - [`codrone-drone-show`](https://github.com/LowPolyPhosphorus/codrone-drone-show) **(1 week ago)**
-- [`site`](https://github.com/LowPolyPhosphorus/site) **(1 week ago)**
 - [`frolibot2`](https://github.com/LowPolyPhosphorus/frolibot2) **(2 weeks ago)**
 - [`hardwire`](https://github.com/sectersion/hardwire) **(2 weeks ago)**
 
 ## some stupid stuff...
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed ~ **844 commits**, opened **5 issues**, submitted **5 pull requests** across **39 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed ~ **845 commits**, opened **5 issues**, submitted **5 pull requests** across **39 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
