@@ -7,8 +7,8 @@
 
 ## recent activity
 
-- [`site`](https://github.com/LowPolyPhosphorus/site) **(2 days ago)**
-- [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) **(4 days ago)**
+- [`site`](https://github.com/LowPolyPhosphorus/site) **(3 days ago)**
+- [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) **(5 days ago)**
 - [`codrone-drone-show`](https://github.com/LowPolyPhosphorus/codrone-drone-show) **(1 week ago)**
 - [`frolibot2`](https://github.com/LowPolyPhosphorus/frolibot2) **(2 weeks ago)**
 - [`hardwire`](https://github.com/sectersion/hardwire) **(2 weeks ago)**
