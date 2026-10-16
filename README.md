@@ -1,21 +1,21 @@
 ## current projects
 
+- [`hackclubranked`](https://github.com/LowPolyPhosphorus/hackclubranked) - __
 - [`mamdani-simulator`](https://github.com/LowPolyPhosphorus/mamdani-simulator) - _mamdani but its a shitty godot game_
 - [`site`](https://github.com/LowPolyPhosphorus/site) - __
 - [`codrone-drone-show`](https://github.com/LowPolyPhosphorus/codrone-drone-show) - _make crappy educational drones do drone show _
-- [`frolibot2`](https://github.com/LowPolyPhosphorus/frolibot2) - _shitpost_
 
 ## recent activity
 
+- [`hackclubranked`](https://github.com/LowPolyPhosphorus/hackclubranked) **(today)**
 - [`mamdani-simulator`](https://github.com/LowPolyPhosphorus/mamdani-simulator) **(1 day ago)**
 - [`site`](https://github.com/LowPolyPhosphorus/site) **(1 week ago)**
 - [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) **(1 week ago)**
 - [`codrone-drone-show`](https://github.com/LowPolyPhosphorus/codrone-drone-show) **(2 weeks ago)**
-- [`frolibot2`](https://github.com/LowPolyPhosphorus/frolibot2) **(3 weeks ago)**
 
 ## some stupid stuff...
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed ~ **858 commits**, opened **5 issues**, submitted **5 pull requests** across **40 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed ~ **859 commits**, opened **5 issues**, submitted **5 pull requests** across **41 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
