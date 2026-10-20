@@ -1,21 +1,21 @@
 ## current projects
 
+- [`tuibrowser`](https://github.com/LowPolyPhosphorus/tuibrowser) - __
 - [`hackclubranked`](https://github.com/LowPolyPhosphorus/hackclubranked) - __
 - [`mamdani-simulator`](https://github.com/LowPolyPhosphorus/mamdani-simulator) - _mamdani but its a shitty godot game_
 - [`site`](https://github.com/LowPolyPhosphorus/site) - __
-- [`codrone-drone-show`](https://github.com/LowPolyPhosphorus/codrone-drone-show) - _make crappy educational drones do drone show _
 
 ## recent activity
 
-- [`mamdani-simulator`](https://github.com/LowPolyPhosphorus/mamdani-simulator) **(2 days ago)**
-- [`hackclubranked`](https://github.com/LowPolyPhosphorus/hackclubranked) **(3 days ago)**
+- [`tuibrowser`](https://github.com/LowPolyPhosphorus/tuibrowser) **(1 day ago)**
+- [`mamdani-simulator`](https://github.com/LowPolyPhosphorus/mamdani-simulator) **(3 days ago)**
+- [`hackclubranked`](https://github.com/LowPolyPhosphorus/hackclubranked) **(4 days ago)**
 - [`site`](https://github.com/LowPolyPhosphorus/site) **(1 week ago)**
 - [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) **(2 weeks ago)**
-- [`codrone-drone-show`](https://github.com/LowPolyPhosphorus/codrone-drone-show) **(3 weeks ago)**
 
 ## some stupid stuff...
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed ~ **870 commits**, opened **5 issues**, submitted **5 pull requests** across **41 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed ~ **873 commits**, opened **5 issues**, submitted **5 pull requests** across **42 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
