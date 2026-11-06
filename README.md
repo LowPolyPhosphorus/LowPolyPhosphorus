@@ -7,10 +7,10 @@
 
 ## recent activity
 
-- [`mamdani-simulator`](https://github.com/LowPolyPhosphorus/mamdani-simulator) **(1 day ago)**
+- [`mamdani-simulator`](https://github.com/LowPolyPhosphorus/mamdani-simulator) **(2 days ago)**
 - [`tuibrowser`](https://github.com/LowPolyPhosphorus/tuibrowser) **(1 week ago)**
-- [`hackclubranked`](https://github.com/LowPolyPhosphorus/hackclubranked) **(2 weeks ago)**
-- [`site`](https://github.com/LowPolyPhosphorus/site) **(4 weeks ago)**
+- [`hackclubranked`](https://github.com/LowPolyPhosphorus/hackclubranked) **(3 weeks ago)**
+- [`site`](https://github.com/LowPolyPhosphorus/site) **(1 month ago)**
 - [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) **(1 month ago)**
 
 ## some stupid stuff...
