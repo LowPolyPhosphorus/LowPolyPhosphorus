@@ -1,21 +1,21 @@
 ## current projects
 
+- [`twofold`](https://github.com/LowPolyPhosphorus/twofold) - _godot game._
 - [`tuibrowser`](https://github.com/LowPolyPhosphorus/tuibrowser) - __
 - [`hackclubranked`](https://github.com/LowPolyPhosphorus/hackclubranked) - __
 - [`mamdani-simulator`](https://github.com/LowPolyPhosphorus/mamdani-simulator) - _mamdani but its a shitty godot game_
-- [`site`](https://github.com/LowPolyPhosphorus/site) - __
 
 ## recent activity
 
+- [`twofold`](https://github.com/LowPolyPhosphorus/twofold) **(1 day ago)**
 - [`mamdani-simulator`](https://github.com/LowPolyPhosphorus/mamdani-simulator) **(3 days ago)**
 - [`tuibrowser`](https://github.com/LowPolyPhosphorus/tuibrowser) **(2 weeks ago)**
 - [`hackclubranked`](https://github.com/LowPolyPhosphorus/hackclubranked) **(3 weeks ago)**
 - [`site`](https://github.com/LowPolyPhosphorus/site) **(1 month ago)**
-- [`unslop-notepad`](https://github.com/LowPolyPhosphorus/unslop-notepad) **(1 month ago)**
 
 ## some stupid stuff...
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed ~ **963 commits**, opened **5 issues**, submitted **5 pull requests** across **42 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed ~ **966 commits**, opened **5 issues**, submitted **5 pull requests** across **43 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
