@@ -7,10 +7,10 @@
 
 ## recent activity
 
-- [`haven-bounce-back`](https://github.com/argentiniandrinkcoaster/haven-bounce-back) **(1 day ago)**
-- [`twofold`](https://github.com/LowPolyPhosphorus/twofold) **(3 days ago)**
+- [`haven-bounce-back`](https://github.com/argentiniandrinkcoaster/haven-bounce-back) **(2 days ago)**
+- [`twofold`](https://github.com/LowPolyPhosphorus/twofold) **(4 days ago)**
 - [`mamdani-simulator`](https://github.com/LowPolyPhosphorus/mamdani-simulator) **(1 week ago)**
-- [`tuibrowser`](https://github.com/LowPolyPhosphorus/tuibrowser) **(2 weeks ago)**
+- [`tuibrowser`](https://github.com/LowPolyPhosphorus/tuibrowser) **(3 weeks ago)**
 - [`hackclubranked`](https://github.com/LowPolyPhosphorus/hackclubranked) **(1 month ago)**
 
 ## some stupid stuff...
