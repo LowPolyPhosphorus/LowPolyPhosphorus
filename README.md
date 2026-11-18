@@ -1,21 +1,21 @@
 ## current projects
 
+- [`shale`](https://github.com/LowPolyPhosphorus/shale) - _a tui version of essentially, obsidian but like rust and whatever_
 - [`twofold`](https://github.com/LowPolyPhosphorus/twofold) - _godot game._
 - [`tuibrowser`](https://github.com/LowPolyPhosphorus/tuibrowser) - __
 - [`hackclubranked`](https://github.com/LowPolyPhosphorus/hackclubranked) - __
-- [`mamdani-simulator`](https://github.com/LowPolyPhosphorus/mamdani-simulator) - _mamdani but its a shitty godot game_
 
 ## recent activity
 
-- [`haven-bounce-back`](https://github.com/argentiniandrinkcoaster/haven-bounce-back) **(3 days ago)**
-- [`twofold`](https://github.com/LowPolyPhosphorus/twofold) **(5 days ago)**
+- [`haven-bounce-back`](https://github.com/argentiniandrinkcoaster/haven-bounce-back) **(4 days ago)**
+- [`twofold`](https://github.com/LowPolyPhosphorus/twofold) **(6 days ago)**
 - [`mamdani-simulator`](https://github.com/LowPolyPhosphorus/mamdani-simulator) **(1 week ago)**
 - [`tuibrowser`](https://github.com/LowPolyPhosphorus/tuibrowser) **(3 weeks ago)**
 - [`hackclubranked`](https://github.com/LowPolyPhosphorus/hackclubranked) **(1 month ago)**
 
 ## some stupid stuff...
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed ~ **991 commits**, opened **5 issues**, submitted **5 pull requests** across **43 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed ~ **991 commits**, opened **5 issues**, submitted **5 pull requests** across **44 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
