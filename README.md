@@ -1,21 +1,21 @@
 ## current projects
 
+- [`nothing-control-panel`](https://github.com/LowPolyPhosphorus/nothing-control-panel) - __
 - [`shale`](https://github.com/LowPolyPhosphorus/shale) - _a tui version of essentially, obsidian but like rust and whatever_
 - [`twofold`](https://github.com/LowPolyPhosphorus/twofold) - _godot game._
 - [`tuibrowser`](https://github.com/LowPolyPhosphorus/tuibrowser) - __
-- [`hackclubranked`](https://github.com/LowPolyPhosphorus/hackclubranked) - __
 
 ## recent activity
 
+- [`nothing-control-panel`](https://github.com/LowPolyPhosphorus/nothing-control-panel) **(today)**
 - [`shale`](https://github.com/LowPolyPhosphorus/shale) **(1 day ago)**
 - [`haven-bounce-back`](https://github.com/argentiniandrinkcoaster/haven-bounce-back) **(1 week ago)**
 - [`twofold`](https://github.com/LowPolyPhosphorus/twofold) **(1 week ago)**
 - [`mamdani-simulator`](https://github.com/LowPolyPhosphorus/mamdani-simulator) **(1 week ago)**
-- [`tuibrowser`](https://github.com/LowPolyPhosphorus/tuibrowser) **(3 weeks ago)**
 
 ## some stupid stuff...
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed ~ **1001 commits**, opened **5 issues**, submitted **5 pull requests** across **44 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed ~ **1004 commits**, opened **5 issues**, submitted **5 pull requests** across **45 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
