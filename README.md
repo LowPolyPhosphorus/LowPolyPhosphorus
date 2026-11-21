@@ -7,8 +7,8 @@
 
 ## recent activity
 
-- [`shale`](https://github.com/LowPolyPhosphorus/shale) **(1 day ago)**
-- [`haven-bounce-back`](https://github.com/argentiniandrinkcoaster/haven-bounce-back) **(6 days ago)**
+- [`shale`](https://github.com/LowPolyPhosphorus/shale) **(2 days ago)**
+- [`haven-bounce-back`](https://github.com/argentiniandrinkcoaster/haven-bounce-back) **(1 week ago)**
 - [`twofold`](https://github.com/LowPolyPhosphorus/twofold) **(1 week ago)**
 - [`mamdani-simulator`](https://github.com/LowPolyPhosphorus/mamdani-simulator) **(1 week ago)**
 - [`tuibrowser`](https://github.com/LowPolyPhosphorus/tuibrowser) **(3 weeks ago)**
