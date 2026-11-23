@@ -1,21 +1,21 @@
 ## current projects
 
+- [`GlassKit`](https://github.com/LowPolyPhosphorus/GlassKit) - _Apple-inspired design system for Windows apps. Tauri components, design tokens, shared motion physics, and real DWM glass, macOS-style visuals with native Windows behaviour._
 - [`nothing-control-panel`](https://github.com/LowPolyPhosphorus/nothing-control-panel) - __
 - [`shale`](https://github.com/LowPolyPhosphorus/shale) - _a tui version of essentially, obsidian but like rust and whatever_
 - [`twofold`](https://github.com/LowPolyPhosphorus/twofold) - _godot game._
-- [`tuibrowser`](https://github.com/LowPolyPhosphorus/tuibrowser) - __
 
 ## recent activity
 
-- [`shale`](https://github.com/LowPolyPhosphorus/shale) **(today)**
-- [`nothing-control-panel`](https://github.com/LowPolyPhosphorus/nothing-control-panel) **(1 day ago)**
+- [`GlassKit`](https://github.com/LowPolyPhosphorus/GlassKit) **(1 day ago)**
+- [`shale`](https://github.com/LowPolyPhosphorus/shale) **(1 day ago)**
+- [`nothing-control-panel`](https://github.com/LowPolyPhosphorus/nothing-control-panel) **(2 days ago)**
 - [`haven-bounce-back`](https://github.com/argentiniandrinkcoaster/haven-bounce-back) **(1 week ago)**
 - [`twofold`](https://github.com/LowPolyPhosphorus/twofold) **(1 week ago)**
-- [`mamdani-simulator`](https://github.com/LowPolyPhosphorus/mamdani-simulator) **(2 weeks ago)**
 
 ## some stupid stuff...
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed ~ **1018 commits**, opened **5 issues**, submitted **5 pull requests** across **45 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed ~ **1054 commits**, opened **5 issues**, submitted **5 pull requests** across **46 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
