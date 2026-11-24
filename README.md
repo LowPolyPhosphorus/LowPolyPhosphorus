@@ -9,13 +9,13 @@
 
 - [`shale`](https://github.com/LowPolyPhosphorus/shale) **(1 day ago)**
 - [`GlassKit`](https://github.com/LowPolyPhosphorus/GlassKit) **(1 day ago)**
-- [`nothing-control-panel`](https://github.com/LowPolyPhosphorus/nothing-control-panel) **(2 days ago)**
+- [`nothing-control-panel`](https://github.com/LowPolyPhosphorus/nothing-control-panel) **(3 days ago)**
 - [`haven-bounce-back`](https://github.com/argentiniandrinkcoaster/haven-bounce-back) **(1 week ago)**
 - [`twofold`](https://github.com/LowPolyPhosphorus/twofold) **(1 week ago)**
 
 ## some stupid stuff...
 <!-- STATS_LINE -->
-I joined GitHub **2 years ago**. This year I've pushed ~ **1076 commits**, opened **5 issues**, submitted **5 pull requests** across **46 public repos**.
+I joined GitHub **2 years ago**. This year I've pushed ~ **1141 commits**, opened **5 issues**, submitted **5 pull requests** across **46 public repos**.
 
 ![C++](https://img.shields.io/badge/C++-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
