@@ -7,10 +7,10 @@
 
 ## recent activity
 
-- [`GlassKit`](https://github.com/LowPolyPhosphorus/GlassKit) **(2 days ago)**
-- [`shale`](https://github.com/LowPolyPhosphorus/shale) **(3 days ago)**
-- [`nothing-control-panel`](https://github.com/LowPolyPhosphorus/nothing-control-panel) **(6 days ago)**
-- [`haven-bounce-back`](https://github.com/argentiniandrinkcoaster/haven-bounce-back) **(1 week ago)**
+- [`GlassKit`](https://github.com/LowPolyPhosphorus/GlassKit) **(3 days ago)**
+- [`shale`](https://github.com/LowPolyPhosphorus/shale) **(4 days ago)**
+- [`nothing-control-panel`](https://github.com/LowPolyPhosphorus/nothing-control-panel) **(1 week ago)**
+- [`haven-bounce-back`](https://github.com/argentiniandrinkcoaster/haven-bounce-back) **(2 weeks ago)**
 - [`twofold`](https://github.com/LowPolyPhosphorus/twofold) **(2 weeks ago)**
 
 ## some stupid stuff...
